@@ -1,4 +1,4 @@
-# Explicación de la webstory
+# Explicación_webstory
 
 #### Leer es una actividad cultural que forma parte de la vida diaria de los chilenos. Sin embargo, mantener un hábito lector implica distintos costos dependiendo de la frecuencia con que se lee, el formato utilizado y la manera en que se accede a los libros. Comprar libros nuevos es solo una de las alternativas disponibles, ya que también existen bibliotecas, libros de segunda mano, formatos digitales y audiolibros.
 #### La Encuesta Nacional de Participación Cultural y Comportamiento Lector 2024 (ENPCCL) permite conocer cómo se relacionan los chilenos con la lectura, considerando aspectos como la cantidad de libros leídos, la frecuencia de lectura y los formatos utilizados. Estos datos permiten establecer distintos perfiles de lectores y estimar cuánto podría costar mantener sus hábitos de lectura.
